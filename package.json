@@ -1,0 +1,12 @@
+{
+  "name": "subzero",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A dark and blue theme based on the TronLight ST theme.",
+  "repository": "https://github.com/cwilsn28/atom-subzero-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
