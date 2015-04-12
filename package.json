@@ -1,7 +1,7 @@
 {
   "name": "subzero-syntax-theme",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": false,
   "description": "A dark and blue theme based on the TronLight ST theme.",
   "repository": "https://github.com/cwilsn28/atom-subzero-theme",
